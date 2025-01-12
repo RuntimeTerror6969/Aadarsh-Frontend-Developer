@@ -10,9 +10,9 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  build: {
-    rollupOptions: {
-      external: ["lucide-react"],
+  resolve: {
+    alias: {
+      "lucide-react": "../node_modules/lucide-react/dist/lucide-react.esm.js",
     },
   },
 });
