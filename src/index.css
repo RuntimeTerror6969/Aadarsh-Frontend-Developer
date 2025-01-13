@@ -20,18 +20,21 @@
     grid-template-columns: minmax(auto, 400px);
     justify-content: center;
   }
+  /* Small screens (450px to 767px): Center the grid with columns no wider than 400px */
 }
 
 @media (min-width: 768px) {
   .grid-layout {
     grid-template-columns: repeat(2, 1fr);
   }
+  /* Medium screens (768px and up): Display grid with two columns */
 }
 
 @media (min-width: 880px) {
   .grid-layout {
     grid-template-columns: repeat(3, 1fr);
   }
+  /* Large screens (880px and up): Display grid with three columns */
 }
 
 @media (min-width: 1075px) {
@@ -40,6 +43,7 @@
     max-width: 1200px;
     margin: 0 auto;
   }
+  /* Extra large screens (1075px and up): Display grid with four columns, centered with max width 1200px */
 }
 
 /* Modal */
