@@ -2,9 +2,13 @@
 
 A responsive React-based food menu application that allows users to browse and filter meals from different cuisines.
 
+## Video Demo
+
+[Watch Demo](your-video-url)
+
 ## Live Demo
 
-[View Demo](https://your-deployment-url.vercel.app)
+[View Demo](https://aadarsh-frontend-developer.vercel.app/)
 
 ## Setup Instructions
 
@@ -50,7 +54,3 @@ Visit `http://localhost:5173` to view the application.
 - Tailwind CSS for styling
 - Responsive design patterns
 - Component-based architecture
-
-## Video Demo
-
-[Watch Demo](your-video-url)
