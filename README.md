@@ -15,8 +15,8 @@ A responsive React-based food menu application that allows users to browse and f
 1. Clone the repository
 
 ```bash
-git clone <https://github.com/RuntimeTerror6969/Aadarsh-Frontend-Developer>
-cd <Aadarsh-Frontend-Developer>
+git clone https://github.com/RuntimeTerror6969/Aadarsh-Frontend-Developer
+cd Aadarsh-Frontend-Developer
 ```
 
 2. Install dependencies
